@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-const Page = () => {
+const Transactions = () => {
   return (
     <View>
-      <Text>Page</Text>
+      <Text>Transactions</Text>
     </View>
   );
 };
 
-export default Page;
+export default Transactions;
 
 const styles = StyleSheet.create({});
